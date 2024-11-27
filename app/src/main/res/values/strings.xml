@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Thread Contador</string>
+
+    <string name="txt_contador">0</string>
+    <string name="btn_inicio">Iniciar</string>
+    <string name="btn_stop">Stop</string>
+</resources>
